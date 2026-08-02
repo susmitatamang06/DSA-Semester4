@@ -1,3 +1,10 @@
+/*
+Extend the above program with following: 
+If the answer is correct, a message of congratulations should be 
+printed. If the answer is incorrect, a message should be printed 
+showing the correct message.
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

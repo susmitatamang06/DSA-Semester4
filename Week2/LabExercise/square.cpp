@@ -1,3 +1,15 @@
+/*
+Write a program that asks the user to enter a positive integer no 
+greater than 15. The program should then display a screen using the 
+characters ‘X’. 
+For example, if input is 5: 
+XXXXX 
+XXXXX 
+XXXXX 
+XXXXX 
+XXXXX 
+*/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,9 @@
+/*
+Write a program that prints all the prime numbers between 2 and    
+200. A prime number (or a prime) is a natural number greater than 1  
+that has no positive divisors other than 1 and itself. 
+*/
+
 #include <iostream>
 using namespace std;
 
